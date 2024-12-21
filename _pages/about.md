@@ -16,7 +16,7 @@ Hello, I'm Xiangyu Li, a second-year Ph.D. student in Transportation Engineering
 Northwestern University <br/>
 Evanston, IL, USA.
 *	*GPA*: 3.8/4.0
-*	*Core Courses*: Deep Reinforcement Learning (4.0/4.0), Deep Learning: Foundations, Applications, and Algorithms (4.0/4.0), Transportation Systems Analysis (4.0/4.0, rank 1/20), Transportation Systems Operations (4.0/4.0), Transportation Systems Planning and Management (4.0/4.0), Travel Demand Analysis and Forecasting (4.0/4.0), Infrastructure System Analysis (4.0/4.0), Introduction to Applied Econometrics (4.0/4.0)
+*	*Core Courses*: Deep Learning (4.0/4.0), Deep Reinforcement Learning (4.0/4.0), Machine Learning: Foundations, Applications, and Algorithms (4.0/4.0), Cyber-Physical Systems Design and Application (4.0/4.0), Transportation Systems Analysis (4.0/4.0, rank 1/20), Transportation Systems Operations (4.0/4.0), Transportation Systems Planning and Management (4.0/4.0), Travel Demand Analysis and Forecasting (4.0/4.0), Infrastructure System Analysis (4.0/4.0), Introduction to Applied Econometrics (4.0/4.0)
 
 **Master of Transportation Engineering** <span style="float:right;">Aug. 2022 – Jul. 2023</span>  <br/> 
 University of California, Berkeley <br/>
